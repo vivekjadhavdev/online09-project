@@ -1,0 +1,16 @@
+dept_id,dept_name,location,team_size,rating
+101,HR,Mumbai,5,A
+102,Finance,Delhi,10,A
+103,IT,Bangalore,20,A
+104,Admin,Mumbai,7,B
+105,Marketing,Chennai,6,B
+106,Sales,Delhi,12,A
+107,IT,Pune,15,A
+108,Finance,Mumbai,8,B
+109,HR,Bangalore,9,A
+110,Marketing,Chennai,11,A
+111,IT,Hyderabad,18,A
+112,Support,Kolkata,4,C
+113,Legal,Mumbai,3,C
+114,R&D,Pune,14,A
+121,Operations,Delhi,16,B

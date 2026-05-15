@@ -1,0 +1,16 @@
+empId|empName|city|sal|age|dob|dept
+E001|Amit Sharma|Mumbai|73400.0|29|1996-08-12|Finance
+E002|Priya Patel|Ahmedabad|81200.0|34|1991-04-23|HR
+E003|Rahul Verma|Delhi|65400.0|41|1984-02-11|Engineering
+E004|Sneha Iyer|Chennai|58900.0|27|1998-06-04|Marketing
+E005|Vikram Singh|Jaipur|91300.0|45|1980-09-19|IT
+E006|Neha Gupta|Pune|70200.0|31|1994-12-05|Sales
+E007|Arjun Reddy|Hyderabad|62300.0|26|1999-03-14|Engineering
+E008|Kavita Nair|Kochi|84500.0|38|1987-05-22|Finance
+E009|Rohit Mehta|Surat|57700.0|25|2000-11-09|HR
+E010|Anjali Desai|Vadodara||33|1992-07-30|IT
+E011|Suresh Kumar|Bangalore|73900.0|36|1989-10-28|Marketing
+E012|Pooja Kulkarni|Nagpur|82100.0|40|1985-01-16|Sales
+E013|Deepak Yadav|Lucknow|69300.0|28|1997-04-02|Engineering
+E014|Meena Joshi|Bhopal|55900.0|24|2001-02-08|Finance
+E015|Karan Malhotra|Chandigarh|90400.0|42|1983-06-19|IT
